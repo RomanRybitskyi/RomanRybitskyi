@@ -8,10 +8,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=romanrybitskyi&label=Profile%20views&color=0e75b6&style=flat" alt="romanrybitskyi" /> </p>
 <hr>
 <h3 align="left">👩‍💻  About Me</h3>
-- 🌱 I’m currently learning **React JS**
-- 👨‍💻 All of my projects are available at [www.wwww.www](www.wwww.www)
-- 💬 Ask me about **HTML, CSS, JS**
-- 📫 How to reach me **roman.3.ry@gmail.com**
+<p align="left"><ul>
+  <li>🌱 I’m currently learning <b>React JS</b></li>
+  <li>👨‍💻 All of my projects are available at <a href="#">somelink.com</a></li>
+    <li>💬 Ask me about <b>**HTML, CSS, JS</b></li>
+        <li>📫 How to reach me <b>roman.3.ry@gmail.com</b></li>
+
+
+</ul></p>
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
