@@ -6,10 +6,11 @@
 </div>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=romanrybitskyi&label=Profile%20views&color=0e75b6&style=flat" alt="romanrybitskyi" /> </p>
-
+***
 <h3 align="left">👩‍💻  About Me</h3>
 
-- 🌱 I’m currently learning **React JS**<br>- 👨‍💻 All of my projects are available at [www.wwww.www](www.wwww.www)
+- 🌱 I’m currently learning **React JS**
+- 👨‍💻 All of my projects are available at [www.wwww.www](www.wwww.www)
 - 💬 Ask me about **HTML, CSS, JS**
 - 📫 How to reach me **roman.3.ry@gmail.com**
 
