@@ -9,6 +9,7 @@
 ###
 <h3 align="left">👩‍💻  About Me</h3>
 ###
+<pre>
 - 🌱 I’m currently learning **React JS**
 
 - 👨‍💻 All of my projects are available at [www.wwww.www](www.wwww.www)
@@ -16,7 +17,7 @@
 - 💬 Ask me about **HTML, CSS, JS**
 
 - 📫 How to reach me **roman.3.ry@gmail.com**
-
+</pre>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
