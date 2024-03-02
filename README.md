@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Roman Rybitskyi</h1>
 <h3 align="center">Welcome to my GitHub repository! I am a 2nd-year student specializing in AI-systems. Currently, I am diving into the exciting world of Frontend development, exploring technologies such as HTML, CSS, JavaScript, and React. This repository serves as a showcase of my learning journey, where you can find various projects, exercises, and experiments related to Frontend development.</h3>
-
+<img aligh="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=romanrybitskyi&label=Profile%20views&color=0e75b6&style=flat" alt="romanrybitskyi" /> </p>
 
 - 🌱 I’m currently learning **React JS**
