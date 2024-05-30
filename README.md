@@ -9,9 +9,9 @@
 <h3 align="left">👩‍💻  About Me</h3>
 <hr>
 <p align="left"><ul>
-  <li>🌱 I’m currently learning <b>React JS</b></li>
+  <li>🌱 I’m currently learning <b>Python</b> and <b>Machine Learning</b></li>
   <li>👨‍💻 All of my projects are available at <a href="#">somelink.com</a></li>
-  <li>💬 Ask me about <b>HTML, CSS, JS</b></li>
+  <li>💬 Ask me about <b>Python, Linear Algebra, ML</b></li>
   <li>📫 How to reach me <b>roman.3.ry@gmail.com</b></li>
 </ul></p>
 <h3 align="left">🙌 Connect with me:</h3>
