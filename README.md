@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Roman Rybitskyi</h1>
-<h3 align="center">Welcome to my GitHub repository! I am a 2nd-year student specializing in AI-systems. Currently, I am diving into the exciting world of Frontend development, exploring technologies such as HTML, CSS, JavaScript, and React. This repository serves as a showcase of my learning journey, where you can find various projects, exercises, and experiments related to Frontend development.</h3>
+<h3 align="center">Welcome to my GitHub repository! I am a 2nd-year student specializing in AI systems. Currently, I am diving into the exciting world of Machine Learning, exploring Python and delving into the fundamentals of Machine Learning. This repository serves as a showcase of my learning journey, where you can find various projects, exercises, and experiments related to Machine Learning and Python.</h3>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=romanrybitskyi&show_icons=true&locale=en&layout=compact" height="150" alt="romanrybitskyi"  />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=romanrybitskyi&show_icons=true&locale=en&layout=compact" height="150" alt="romanrybitskyi"  />
