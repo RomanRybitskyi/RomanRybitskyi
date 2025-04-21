@@ -11,7 +11,6 @@
 <hr>
 <p align="left"><ul>
   <li>🌱 I’m currently learning <b>Python, ML, TensorFlow, PyTorch</b></li>
-  <li>👨‍💻 All of my projects are available at <a href="#">somelink.com</a></li>
   <li>💬 Ask me about <b>Python, Linear Algebra, Calculus, Probability theory, Algorithms and Data Structures</b></li>
   <li>📫 How to reach me <b>roman.3.ry@gmail.com</b></li>
 </ul></p>
